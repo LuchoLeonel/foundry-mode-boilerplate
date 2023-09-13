@@ -98,6 +98,8 @@ Use the [blockscout](https://sepolia.explorer.mode.network/) explorer to view yo
 
 In the "Contract" tab you'll find your verified contract.
 
+![](https://lh5.googleusercontent.com/OJLvZ0NHyU_z-JXDaPXZGfjMhAPsWr0PENTz5FCGAvB89b57lT05jwVJu6CFwW-isDp_5ySWmP55IS4mP7QO9ybM5J0N88dcHLHXSJo_f-IGaXxbb-oEUUGj5mjG6J64Tmb-oxNYKD1A3Xpg6hXZ_gk)
+
 Congratulations, you just deployed and verified a contract on Mode Network using Foundry. 
 To learn more about Mode and how to turn your code into a business, join our [Discord](https://discord.gg/ModeNetwork) and say hello 👋
 

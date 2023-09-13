@@ -47,7 +47,8 @@ contract MyERC20 is ERC20 {
 This is a simple ERC20 token named "MyToken" with the symbol "MTK". You can name it any way you want and also write any other contracts. Just remember that if your file name is called differently, the commands to deploy will be slightly different. 
 This is what you should have up to now:
 
-https://lh6.googleusercontent.com/1jahpfwmFhOAiT_xMNIb0-kux3ARUGOy-3euxZ7_gT6Gg17CnCIGNbaeLIqrisbaNa1ZyJ_npaKhMyHNnyZCZ_fnmWknw3fo4P_1immNKd6fDyWDYc8rU6srodquISlaY64TTpbdar9d57v5RSuWWFk
+![](https://lh6.googleusercontent.com/1jahpfwmFhOAiT_xMNIb0-kux3ARUGOy-3euxZ7_gT6Gg17CnCIGNbaeLIqrisbaNa1ZyJ_npaKhMyHNnyZCZ_fnmWknw3fo4P_1immNKd6fDyWDYc8rU6srodquISlaY64TTpbdar9d57v5RSuWWFk)
+
 
 ## 3. Building The Contract
 #### 3.1. Use Foundry to compile your smart contract running the following command:

@@ -11,7 +11,7 @@ Even if you need to do these 3 steps, it won’t take more than 10 minutes to se
 - Rust must be installed on your computer. If it's not, [follow this guide](https://doc.rust-lang.org/book/ch01-01-installation.html).
 - Foundry must be installed on your computer. If it’s not, [follow this guide](https://book.getfoundry.sh/getting-started/installation).
 
-If you just want to skip to the build & deploy section of this tutorial, you can clone [this repository](https://github.com/LuchoLeonel/foundry-mode-boilerplate) that contains a boilerplate Foundry project and skip to step 3.
+If you just want to skip to the build & deploy section of this tutorial, you can clone this repository that contains a boilerplate Foundry project and skip to step 3.
 
 Let's get started!
 
